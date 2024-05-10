@@ -1,4 +1,4 @@
-![Screenshot 2024-05-10 201752](https://github.com/tharunkumaran2006/Pharma/assets/151625188/43d7bc25-63a7-4a03-8a70-60cf1f51c653)![Screenshot 2024-05-10 201738](https://github.com/tharunkumaran2006/Pharma/assets/151625188/b6c79fae-94dc-4c7a-a3bf-52033cbb3fc1)# Project Responsive Web Design using Bootstrap
+# Project Responsive Web Design using Bootstrap
 ## Date:10/05/2024
 
 ## AIM:
